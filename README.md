@@ -1,4 +1,4 @@
 Olá, seja bem vindo(a) ao meu Github;     
 
-📚 Cursando Técnico integrado em Informática pela UFRN;        
-🏅 Principais linguagens: Java, Javascript e Arduino;
+📚 Técnico integrado em Informática pela UFRN;        
+🏅 Linguagens: Python, Java, Javascript e Arduino;
