@@ -1,4 +1,13 @@
-Olá, seja bem vindo(a) ao meu Github;     
+## Olá, seja bem vindo(a) ao meu Github;     
 
-📚 Técnico integrado em Informática pela UFRN;        
-🏅 Linguagens: Python, Java, Javascript;
+💻 Graduando em Análise e Desenvolvimento de Sistemas;
+
+📚 Técnico integrado em Informática pela UFRN;
+
+## Linguagens e Ferramentas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,nodejs,django,js,java,ts,php,spring,postgres,git,html,css,c" />
+  </a>
+</p>
