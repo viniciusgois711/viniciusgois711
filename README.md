@@ -2,6 +2,8 @@
 
 👨‍💻 Desenvolvedor da UserFunction;
 
+⚙  Residente em Sistemas Embarcados do EmbarcaTech;
+
 💻 Graduando em Análise e Desenvolvimento de Sistemas;
 
 📚 Técnico integrado em Informática pela UFRN;
