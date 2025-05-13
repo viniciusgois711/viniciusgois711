@@ -4,7 +4,7 @@
 
 ⚙  Residente em Sistemas Embarcados do EmbarcaTech;
 
-💻 Graduando em Análise e Desenvolvimento de Sistemas;
+💻 Graduando em Análise e Desenvolvimento de Sistemas pelo IFRN;
 
 📚 Técnico integrado em Informática pela UFRN;
 
